@@ -30,7 +30,7 @@
         "type": "string",
         "type": "string",
         "type": "string",
-        "enum": ["RUB", "USD"]
+        "enum": ["RUR", "USD"]
       }
     }
   }
